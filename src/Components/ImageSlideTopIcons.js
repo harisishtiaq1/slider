@@ -133,7 +133,7 @@ function ImageSlideTopIcons() {
           boxShadow:
             "3px 3px 6px rgb(0 0 0 / 25%), -3px -3px 6px rgb(255 255 255 / 6%)",
           position: "absolute",
-        bottom: 0,
+          bottom: 0,
           right: 70,
           backgroundColor: "lightblue",
         }}

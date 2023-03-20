@@ -1,14 +1,14 @@
-import React from 'react'
-import ImageSlide from './ImageSlide'
-import ImageSlideTopIcons from './ImageSlideTopIcons'
+import React from "react";
+import ImageSlide from "./ImageSlide";
+import ImageSlideTopIcons from "./ImageSlideTopIcons";
 
 function Dashboard() {
   return (
     <>
-    <ImageSlide/>
-    <ImageSlideTopIcons/>
+      <ImageSlide />
+      <ImageSlideTopIcons />
     </>
-  )
+  );
 }
 
-export default Dashboard
+export default Dashboard;
