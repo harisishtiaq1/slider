@@ -88,14 +88,14 @@ function ImageSlide() {
             <Card
               sx={{
                 maxWidth: 345,
-                backgroundColor: "black",
-                height: 400,
+                backgroundColor: "blueViolet",
+                height: 450,
                 boxShadow:
                   "3px 3px 6px rgb(0 0 0 / 25%), -3px -3px 6px rgb(255 255 255 / 6%)",
               }}
             >
               <CardMedia
-                sx={{ height: 300, backgroundColor: "black" }}
+                sx={{ height: 350 }}
                 image={items.src}
               />
               <CardContent>

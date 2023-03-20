@@ -90,14 +90,14 @@ function ImageSlideTopIcons() {
             <Card
               sx={{
                 maxWidth: 345,
-                backgroundColor: "black",
+                backgroundColor: "navy",
                 height: 400,
                 boxShadow:
                   "3px 3px 6px rgb(0 0 0 / 25%), -3px -3px 6px rgb(255 255 255 / 6%)",
               }}
             >
               <CardMedia
-                sx={{ height: 300, backgroundColor: "black" }}
+                sx={{ height: 300,}}
                 image={items.src}
               />
               <CardContent>
