@@ -1,9 +1,8 @@
 import "./App.css";
-import Slider from "./Components/Slider";
-
+import Dashboard from "./Components/Dashboard";
 function App() {
   return (
-      <Slider />
+      <Dashboard />
   
   );
 }
