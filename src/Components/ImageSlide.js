@@ -94,10 +94,7 @@ function ImageSlide() {
                   "3px 3px 6px rgb(0 0 0 / 25%), -3px -3px 6px rgb(255 255 255 / 6%)",
               }}
             >
-              <CardMedia
-                sx={{ height: 350 }}
-                image={items.src}
-              />
+              <CardMedia sx={{ height: 350 }} image={items.src} />
               <CardContent>
                 <Typography gutterBottom variant="h5" sx={{ color: "white" }}>
                   {items.text}
